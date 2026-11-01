@@ -1,0 +1,6 @@
+genesis-world
+torch
+anthropic
+imageio[ffmpeg]
+pillow
+numpy

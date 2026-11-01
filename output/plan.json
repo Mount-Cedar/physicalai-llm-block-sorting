@@ -1,0 +1,25 @@
+{
+  "steps": [
+    {
+      "cube_id": "red_cube_1",
+      "tray_id": "red_tray",
+      "reason": "赤いブロックなので同色の赤トレイへ運ぶ"
+    },
+    {
+      "cube_id": "red_cube_2",
+      "tray_id": "red_tray",
+      "reason": "赤いブロックなので同色の赤トレイへ運ぶ"
+    },
+    {
+      "cube_id": "blue_cube_1",
+      "tray_id": "blue_tray",
+      "reason": "青いブロックなので同色の青トレイへ運ぶ"
+    },
+    {
+      "cube_id": "blue_cube_2",
+      "tray_id": "blue_tray",
+      "reason": "青いブロックなので同色の青トレイへ運ぶ"
+    }
+  ],
+  "summary": "赤2個を red_tray、青2個を blue_tray へ色ごとに仕分けします。green_cube_1 は「壊れやすいので絶対に触らない」という指示に従い計画から除外しました(緑のトレイも存在しないため搬送先もありません)。"
+}
